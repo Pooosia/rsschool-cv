@@ -1,6 +1,6 @@
 # Kravtsova Olga
 
-![Avatar](https://github.com/Pooosia/rsschool-cv/blob/gh-pages/2021-12-28%2023.06.48.jpg "My photo")
+![Avatar](https://ibb.co/myLRHcW "My photo")
 
 ## Contacts
 
@@ -12,42 +12,43 @@
 
  After graduating from Minsk State Linguistic University I worked in logistics area for 2 years. Now it's my 4th year in digital agency as a SEO specialist and marketologist. Between that time I worked in a call-center, as a freelance copywriter, as a promoter and as an English teacher. Now I decided to try something new and entered the RS School
 
-===
+============================================================================
 
  Telling the truth, I don't have any experience in programming, but when I started learning HTML and SSL I faced no difficulties in its understanding. So I hope that by the end of the course I could tell that I gained certain skills. Here's my first experience: [My CV](https://Pooosia.github.io/rsschool-cv/cv "My CV")
 
-===
+============================================================================
 
 ## Code example
 
 ```html
-<div>
+<form>
 <p>
 <label>
-Name
-<input type="text">
-</label>
+        Name
+        <input type="text">
+    </label>
 </p>
 <p>
 <label>
-Phone number
-<input type="text">
-</label>
+        Phone number
+        <input type="text">
+    </label>
 </p>
 <p>
-<label>
-How old are you?
-<input type="number">
-</label>
+    <label>
+            How old are you?
+            <input type="number">
+        </label>
 </p>
 <select multiple>
-<option disabled>Which option do you want to choose?</option>
-<option>Auto</option>
-<option>Manual</option>
-<option>Help</option>
-</select>
+        <option disabled>Which option do you want to choose?</option>
+        <option>Auto</option>
+        <option>Manual</option>
+        <option>Help</option>
+    </select>
+
 <button>Send</button>
-</div>
+</form>
 ```
 
 ### Working experience
