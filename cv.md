@@ -1,6 +1,6 @@
 # Kravtsova Olga
 
-![Avatar](https://ibb.co/myLRHcW "My photo")
+![Alt-Avatar](https://i.postimg.cc/7LHGnD5w/2021-12-28-23-06-48.jpg "My photo")
 
 ## Contacts
 
@@ -21,6 +21,10 @@
 ## Code example
 
 ```html
+<!DOCTYPE html>
+<html>
+<body>
+
 <form>
 <p>
 <label>
@@ -49,6 +53,8 @@
 
 <button>Send</button>
 </form>
+</body>
+</html>
 ```
 
 ### Working experience
