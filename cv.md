@@ -1,6 +1,6 @@
 # Kravtsova Olga
 
-![Avatar](/Users/pooosia/rsschool-cv/rsschool-cv/2021-12-28 23.06.48.jpg "My photo")
+![Avatar](https://github.com/Pooosia/rsschool-cv/blob/gh-pages/2021-12-28%2023.06.48.jpg "My photo")
 
 ## Contacts
 
@@ -10,17 +10,18 @@
 
 ### **About myself**
 
-#### After graduating from Minsk State Linguistic University I worked in logistics area for 2 years. Now it's my 4th year in digital agency as a SEO specialist and marketologist. Between that time I worked in a call-center, as a freelance copywriter, as a promoter and as an English teacher. Now I decided to try something new and entered the RS School
+ After graduating from Minsk State Linguistic University I worked in logistics area for 2 years. Now it's my 4th year in digital agency as a SEO specialist and marketologist. Between that time I worked in a call-center, as a freelance copywriter, as a promoter and as an English teacher. Now I decided to try something new and entered the RS School
 
-======
+===
 
-#### Telling the truth, I don't have any experience in programming, but when I started learning HTML and SSL I faced no difficulties in its understanding. So I hope that by the end of the course I could tell that I gained certain skills. Here's my first experience: [My CV](https://Pooosia.github.io/rsschool-cv/cv "My CV")
+ Telling the truth, I don't have any experience in programming, but when I started learning HTML and SSL I faced no difficulties in its understanding. So I hope that by the end of the course I could tell that I gained certain skills. Here's my first experience: [My CV](https://Pooosia.github.io/rsschool-cv/cv "My CV")
 
-=====
+===
 
 ## Code example
 
 ```html
+<div>
 <p>
 <label>
 Name
@@ -46,6 +47,7 @@ How old are you?
 <option>Help</option>
 </select>
 <button>Send</button>
+</div>
 ```
 
 ### Working experience
