@@ -1,1 +1,1 @@
-# rsschool-cv <https://Pooosia.github.io/rsschool-cv/cv>
+# rsschool-cv <https://Pooosia.github.io/rsschool-cv/>
