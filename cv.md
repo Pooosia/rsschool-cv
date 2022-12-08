@@ -1,6 +1,6 @@
 # Kravtsova Olga
 
-![Alt-Avatar](https://ibb.co/26sxWdz.jpg "My photo")
+![Alt-Avatar](https://i.postimg.cc/W4Z1cX3c/Pic.png "My photo")
 
 ## Contacts
 
